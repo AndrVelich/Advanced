@@ -382,3 +382,5 @@ C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
 C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\Razor\Pages\Blazor.cshtml.g.cs
 C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\RazorDeclaration\Blazor\Events.razor.g.cs
 C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\Razor\Blazor\Events.razor.g.cs
+C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\RazorDeclaration\Blazor\Bindings.razor.g.cs
+C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\Razor\Blazor\Bindings.razor.g.cs
