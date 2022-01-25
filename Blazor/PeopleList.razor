@@ -19,7 +19,12 @@
         }
     </tbody>
 </table>
-<SelectFilter values="@Cities" title="@SelectTitle" CustomEvent="@HandleCustom" />
+<SelectFilter values="@Cities" title="@SelectTitle"
+              @bind-SelectedValue="SelectedCity" />
+<button class="btn btn-primary"
+        @onclick="@(() => SelectedCity = "San Jose")">
+    Change
+</button>
 @code {
     [Inject]
     public DataContext Context { get; set; }
@@ -40,8 +45,4 @@
     [Parameter]
     public string SelectTitle { get; set; }
 
-    public void HandleCustom(string newValue)
-    {
-        SelectedCity = newValue;
-    }
 }
