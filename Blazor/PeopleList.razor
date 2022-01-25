@@ -19,18 +19,7 @@
         }
     </tbody>
 </table>
-<div class="form-group">
-    <label for="city">City</label>
-    <select name="city" class="form-control" @bind="SelectedCity">
-        <option disabled selected>Select City</option>
-        @foreach (string city in Cities)
-        {
-            <option value="@city" selected="@(city == SelectedCity)">
-                @city
-            </option>
-        }
-    </select>
-</div>
+<SelectFilter />
 @code {
     [Inject]
     public DataContext Context { get; set; }
