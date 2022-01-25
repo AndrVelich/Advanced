@@ -1,5 +1,7 @@
 ﻿using Advanced.Blazor;
 using System.Collections.Generic;
+using Microsoft.JSInterop;
+
 namespace Advanced.Services
 {
     public class ToggleService
@@ -10,6 +12,7 @@ namespace Advanced.Services
         {
             components.AddRange(comps);
         }
+        [JSInvokable]
         public bool ToggleComponents()
         {
             enabled = !enabled;
