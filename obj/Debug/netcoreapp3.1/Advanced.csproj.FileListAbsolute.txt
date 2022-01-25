@@ -399,3 +399,5 @@ C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\Razor\Blazor\Routed.razor.g.cs
 C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
 C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\RazorDeclaration\Blazor\PersonDisplay.razor.g.cs
 C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\Razor\Blazor\PersonDisplay.razor.g.cs
+C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\RazorDeclaration\Blazor\NavLayout.razor.g.cs
+C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\Razor\Blazor\NavLayout.razor.g.cs
