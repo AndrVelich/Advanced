@@ -411,3 +411,5 @@ C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\Razor\Blazor\Forms\FormSpy.razo
 C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\Razor\Blazor\Forms\List.razor.g.cs
 C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\Advanced.csproj.AssemblyReference.cache
 C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\Advanced.csproj.CoreCompileInputs.cache
+C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\RazorDeclaration\Blazor\Forms\CustomSelect.razor.g.cs
+C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\Razor\Blazor\Forms\CustomSelect.razor.g.cs
