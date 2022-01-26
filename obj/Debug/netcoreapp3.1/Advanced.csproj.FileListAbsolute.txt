@@ -392,8 +392,6 @@ C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\RazorDeclaration\Blazor\TableTe
 C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\Razor\Blazor\TableTemplate.razor.g.cs
 C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\RazorDeclaration\Blazor\DepartmentList.razor.g.cs
 C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\Razor\Blazor\DepartmentList.razor.g.cs
-C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\Advanced.csproj.AssemblyReference.cache
-C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\Advanced.csproj.CoreCompileInputs.cache
 C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\RazorDeclaration\Blazor\Routed.razor.g.cs
 C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\Razor\Blazor\Routed.razor.g.cs
 C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
@@ -403,3 +401,13 @@ C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\RazorDeclaration\Blazor\NavLayo
 C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\Razor\Blazor\NavLayout.razor.g.cs
 C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\RazorDeclaration\Blazor\MultiNavLink.razor.g.cs
 C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\Razor\Blazor\MultiNavLink.razor.g.cs
+C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\RazorDeclaration\Blazor\Forms\Editor.razor.g.cs
+C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\RazorDeclaration\Blazor\Forms\EmptyLayout.razor.g.cs
+C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\RazorDeclaration\Blazor\Forms\FormSpy.razor.g.cs
+C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\RazorDeclaration\Blazor\Forms\List.razor.g.cs
+C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\Razor\Blazor\Forms\Editor.razor.g.cs
+C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\Razor\Blazor\Forms\EmptyLayout.razor.g.cs
+C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\Razor\Blazor\Forms\FormSpy.razor.g.cs
+C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\Razor\Blazor\Forms\List.razor.g.cs
+C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\Advanced.csproj.AssemblyReference.cache
+C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\Advanced.csproj.CoreCompileInputs.cache
