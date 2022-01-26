@@ -3,8 +3,10 @@
 
 <link href="/blazorValidation.css" rel="stylesheet" />
 <h4 class="bg-primary text-center text-white p-2">Edit</h4>
+<h6 class="bg-info text-center text-white p-2">@FormSubmitMessage</h6>
 <FormSpy PersonData="PersonData">
-    <EditForm Model="PersonData">
+    <EditForm Model="PersonData" OnValidSubmit="HandleValidSubmit"
+              OnInvalidSubmit="HandleInvalidSubmit">
         <DataAnnotationsValidator />
         <ValidationSummary />
         <div class="form-group">
@@ -36,18 +38,19 @@
             </CustomSelect>
         </div>
         <div class="text-center">
+            <button type="submit" class="btn btn-primary">Submit</button>
             <NavLink class="btn btn-secondary" href="/forms">Back</NavLink>
         </div>
     </EditForm>
 </FormSpy>
 @code 
 {
-        [Inject]
-        public NavigationManager NavManager { get; set; }
-        [Inject]
-        DataContext Context { get; set; }
-        [Parameter]
-        public long Id { get; set; }
+    [Inject]
+    public NavigationManager NavManager { get; set; }
+    [Inject]
+    DataContext Context { get; set; }
+    [Parameter]
+    public long Id { get; set; }
     public Person PersonData { get; set; } = new Person();
     public IDictionary<string, long> Departments { get; set; }
         = new Dictionary<string, long>();
@@ -61,4 +64,8 @@
         Locations = await Context.Locations
         .ToDictionaryAsync(l => $"{l.City}, {l.State}", l => l.LocationId);
     }
+    public string FormSubmitMessage { get; set; } = "Form Data Not Submitted";
+    public void HandleValidSubmit() => FormSubmitMessage = "Valid Data Submitted";
+    public void HandleInvalidSubmit() =>
+    FormSubmitMessage = "Invalid Data Submitted";
 }
