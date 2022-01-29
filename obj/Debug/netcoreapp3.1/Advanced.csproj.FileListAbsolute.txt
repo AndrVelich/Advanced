@@ -434,3 +434,4 @@ C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\Advanced.csproj.AssemblyReferen
 C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\Advanced.csproj.CoreCompileInputs.cache
 C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\Razor\Pages\Users\List.cshtml.g.cs
 C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\Razor\Pages\Users\_Layout.cshtml.g.cs
+C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\Razor\Pages\Users\Create.cshtml.g.cs
