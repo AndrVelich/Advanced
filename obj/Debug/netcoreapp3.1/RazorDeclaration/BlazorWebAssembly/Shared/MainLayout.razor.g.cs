@@ -27,13 +27,6 @@ using Microsoft.EntityFrameworkCore;
 #line hidden
 #nullable disable
 #nullable restore
-#line 7 "C:\Users\Euheni\Advanced\_Imports.razor"
-using Advanced.Models;
-
-#line default
-#line hidden
-#nullable disable
-#nullable restore
 #line 1 "C:\Users\Euheni\Advanced\BlazorWebAssembly\_Imports.razor"
 using System.Net.Http;
 
@@ -78,6 +71,13 @@ using BlazorWebAssembly;
 #nullable restore
 #line 7 "C:\Users\Euheni\Advanced\BlazorWebAssembly\_Imports.razor"
 using BlazorWebAssembly.Shared;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 8 "C:\Users\Euheni\Advanced\BlazorWebAssembly\_Imports.razor"
+using Advanced.Models;
 
 #line default
 #line hidden

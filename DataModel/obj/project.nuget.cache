@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lnRYU9rfld/UjfKFZ8Nq2p9B3x5UhKhfGLQgNDiuHoMam0LL4BOW8z9CjuZcy9TBUOaGn8k3f0HOr69XsMsNtg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Euheni\\DataModel\\DataModel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Euheni\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
