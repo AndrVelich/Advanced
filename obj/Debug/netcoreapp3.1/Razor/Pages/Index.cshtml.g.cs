@@ -33,9 +33,30 @@ using Microsoft.EntityFrameworkCore;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 5 "C:\Users\Euheni\Advanced\Pages\_ViewImports.cshtml"
+using System.ComponentModel.DataAnnotations;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 6 "C:\Users\Euheni\Advanced\Pages\_ViewImports.cshtml"
+using Microsoft.AspNetCore.Identity;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 7 "C:\Users\Euheni\Advanced\Pages\_ViewImports.cshtml"
+using Advanced.Pages;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorCompiledItemMetadataAttribute("RouteTemplate", "/pages")]
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"e6c2679a1c2723e07ffc172e71c3e349d1cd8bb8", @"/Pages/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"ce69f70e1a691fc2af424d23c4a7624b5405751e", @"/Pages/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"f5591a9e5ba24922be22e66e52a5bb7b0f076af1", @"/Pages/_ViewImports.cshtml")]
     public class Pages_Index : global::Microsoft.AspNetCore.Mvc.RazorPages.Page
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("asp-page", "Index", global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -153,9 +174,9 @@ WriteAttributeValue("", 417, Model.GetClass(p.Location.City), 417, 32, false);
 #line hidden
 #nullable disable
             WriteLiteral("    </tbody>\r\n</table>\r\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e6c2679a1c2723e07ffc172e71c3e349d1cd8bb86535", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e6c2679a1c2723e07ffc172e71c3e349d1cd8bb87035", async() => {
                 WriteLiteral("\r\n    <div class=\"form-group\">\r\n        <label for=\"selectedCity\">City</label>\r\n        <select name=\"selectedCity\" class=\"form-control\">\r\n            ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e6c2679a1c2723e07ffc172e71c3e349d1cd8bb86956", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e6c2679a1c2723e07ffc172e71c3e349d1cd8bb87456", async() => {
                     WriteLiteral("Select City");
                 }
                 );
@@ -184,7 +205,7 @@ WriteAttributeValue("", 417, Model.GetClass(p.Location.City), 417, 32, false);
 #line hidden
 #nullable disable
                 WriteLiteral("                ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e6c2679a1c2723e07ffc172e71c3e349d1cd8bb88864", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e6c2679a1c2723e07ffc172e71c3e349d1cd8bb89364", async() => {
                     WriteLiteral("\r\n                    ");
 #nullable restore
 #line 33 "C:\Users\Euheni\Advanced\Pages\Index.cshtml"

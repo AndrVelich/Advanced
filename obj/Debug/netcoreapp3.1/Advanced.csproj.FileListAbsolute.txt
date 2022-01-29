@@ -65,8 +65,6 @@ C:\Users\Euheni\Advanced\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Compo
 C:\Users\Euheni\Advanced\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
 C:\Users\Euheni\Advanced\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
 C:\Users\Euheni\Advanced\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
-C:\Users\Euheni\Advanced\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
-C:\Users\Euheni\Advanced\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 C:\Users\Euheni\Advanced\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
 C:\Users\Euheni\Advanced\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
 C:\Users\Euheni\Advanced\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
@@ -145,8 +143,6 @@ C:\Users\Euheni\Advanced\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileS
 C:\Users\Euheni\Advanced\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
 C:\Users\Euheni\Advanced\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
 C:\Users\Euheni\Advanced\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
-C:\Users\Euheni\Advanced\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
-C:\Users\Euheni\Advanced\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\Euheni\Advanced\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
 C:\Users\Euheni\Advanced\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
 C:\Users\Euheni\Advanced\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
@@ -415,7 +411,6 @@ C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\RazorDeclaration\Blazor\Forms\D
 C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\Razor\Blazor\Forms\Details.razor.g.cs
 C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\RazorDeclaration\Blazor\Forms\ValidButton.razor.g.cs
 C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\Razor\Blazor\Forms\ValidButton.razor.g.cs
-C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\Advanced.csproj.CoreCompileInputs.cache
 C:\Users\Euheni\Advanced\bin\Debug\netcoreapp3.1\BlazorWebAssembly.blazor.config
 C:\Users\Euheni\Advanced\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Blazor.dll
 C:\Users\Euheni\Advanced\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
@@ -430,4 +425,12 @@ C:\Users\Euheni\Advanced\bin\Debug\netcoreapp3.1\BlazorWebAssembly.dll
 C:\Users\Euheni\Advanced\bin\Debug\netcoreapp3.1\DataModel.dll
 C:\Users\Euheni\Advanced\bin\Debug\netcoreapp3.1\DataModel.pdb
 C:\Users\Euheni\Advanced\bin\Debug\netcoreapp3.1\BlazorWebAssembly.pdb
+C:\Users\Euheni\Advanced\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Euheni\Advanced\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Euheni\Advanced\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Euheni\Advanced\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Euheni\Advanced\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\Advanced.csproj.AssemblyReference.cache
+C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\Advanced.csproj.CoreCompileInputs.cache
+C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\Razor\Pages\Users\List.cshtml.g.cs
+C:\Users\Euheni\Advanced\obj\Debug\netcoreapp3.1\Razor\Pages\Users\_Layout.cshtml.g.cs

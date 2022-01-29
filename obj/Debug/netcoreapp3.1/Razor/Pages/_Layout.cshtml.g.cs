@@ -33,8 +33,29 @@ using Microsoft.EntityFrameworkCore;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 5 "C:\Users\Euheni\Advanced\Pages\_ViewImports.cshtml"
+using System.ComponentModel.DataAnnotations;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 6 "C:\Users\Euheni\Advanced\Pages\_ViewImports.cshtml"
+using Microsoft.AspNetCore.Identity;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 7 "C:\Users\Euheni\Advanced\Pages\_ViewImports.cshtml"
+using Advanced.Pages;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"ce4fe603f511a4663e5dc126e35e951e8fa429ce", @"/Pages/_Layout.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"ce69f70e1a691fc2af424d23c4a7624b5405751e", @"/Pages/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"f5591a9e5ba24922be22e66e52a5bb7b0f076af1", @"/Pages/_ViewImports.cshtml")]
     public class Pages__Layout : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("href", new global::Microsoft.AspNetCore.Html.HtmlString("~/"), global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -65,7 +86,7 @@ using Microsoft.EntityFrameworkCore;
         public async override global::System.Threading.Tasks.Task ExecuteAsync()
         {
             WriteLiteral("<!DOCTYPE html>\r\n<html>\r\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ce4fe603f511a4663e5dc126e35e951e8fa429ce3823", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ce4fe603f511a4663e5dc126e35e951e8fa429ce4323", async() => {
                 WriteLiteral("\r\n    <title>");
 #nullable restore
 #line 4 "C:\Users\Euheni\Advanced\Pages\_Layout.cshtml"
@@ -75,7 +96,7 @@ using Microsoft.EntityFrameworkCore;
 #line hidden
 #nullable disable
                 WriteLiteral("</title>\r\n    <link href=\"/lib/twitter-bootstrap/css/bootstrap.min.css\" rel=\"stylesheet\" />\r\n    ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("base", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "ce4fe603f511a4663e5dc126e35e951e8fa429ce4387", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("base", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "ce4fe603f511a4663e5dc126e35e951e8fa429ce4887", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -101,7 +122,7 @@ using Microsoft.EntityFrameworkCore;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ce4fe603f511a4663e5dc126e35e951e8fa429ce6182", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ce4fe603f511a4663e5dc126e35e951e8fa429ce6682", async() => {
                 WriteLiteral("\r\n    <div class=\"m-2\">\r\n        <h5 class=\"bg-secondary text-white text-center p-2\">Razor Page</h5>\r\n        ");
 #nullable restore
 #line 11 "C:\Users\Euheni\Advanced\Pages\_Layout.cshtml"

@@ -1,9 +1,8 @@
 C:\Users\Euheni\DataModel\bin\Debug\netstandard2.1\DataModel.deps.json
 C:\Users\Euheni\DataModel\bin\Debug\netstandard2.1\DataModel.dll
 C:\Users\Euheni\DataModel\bin\Debug\netstandard2.1\DataModel.pdb
-C:\Users\Euheni\DataModel\obj\Debug\netstandard2.1\DataModel.csproj.AssemblyReference.cache
-C:\Users\Euheni\DataModel\obj\Debug\netstandard2.1\DataModel.csproj.CoreCompileInputs.cache
 C:\Users\Euheni\DataModel\obj\Debug\netstandard2.1\DataModel.AssemblyInfoInputs.cache
 C:\Users\Euheni\DataModel\obj\Debug\netstandard2.1\DataModel.AssemblyInfo.cs
 C:\Users\Euheni\DataModel\obj\Debug\netstandard2.1\DataModel.dll
 C:\Users\Euheni\DataModel\obj\Debug\netstandard2.1\DataModel.pdb
+C:\Users\Euheni\DataModel\obj\Debug\netstandard2.1\DataModel.csprojAssemblyReference.cache

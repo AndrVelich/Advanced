@@ -33,9 +33,30 @@ using Microsoft.EntityFrameworkCore;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 5 "C:\Users\Euheni\Advanced\Pages\_ViewImports.cshtml"
+using System.ComponentModel.DataAnnotations;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 6 "C:\Users\Euheni\Advanced\Pages\_ViewImports.cshtml"
+using Microsoft.AspNetCore.Identity;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 7 "C:\Users\Euheni\Advanced\Pages\_ViewImports.cshtml"
+using Advanced.Pages;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorCompiledItemMetadataAttribute("RouteTemplate", "/pages/blazor")]
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"c7aa60a29fc37c007385c1c2cf21a3524390d4a8", @"/Pages/Blazor.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"ce69f70e1a691fc2af424d23c4a7624b5405751e", @"/Pages/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"f5591a9e5ba24922be22e66e52a5bb7b0f076af1", @"/Pages/_ViewImports.cshtml")]
     public class Pages_Blazor : global::Microsoft.AspNetCore.Mvc.RazorPages.Page
     {
         #line hidden
@@ -91,7 +112,7 @@ using Microsoft.EntityFrameworkCore;
         Reload
     </button>");
             WriteLiteral("\r\n</div>\r\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("component", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "c7aa60a29fc37c007385c1c2cf21a3524390d4a84368", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("component", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "c7aa60a29fc37c007385c1c2cf21a3524390d4a84868", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_TagHelpers_ComponentTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.ComponentTagHelper>();

@@ -29,8 +29,6 @@ C:\Users\Euheni\BlazorWebAssembly\bin\Debug\netstandard2.1\dist\_framework\_bin\
 C:\Users\Euheni\BlazorWebAssembly\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Text.Json.dll
 C:\Users\Euheni\BlazorWebAssembly\bin\Debug\netstandard2.1\dist\_framework\_bin\WebAssembly.Bindings.dll
 C:\Users\Euheni\BlazorWebAssembly\bin\Debug\netstandard2.1\dist\_framework\_bin\WebAssembly.Net.Http.dll
-C:\Users\Euheni\BlazorWebAssembly\bin\Debug\netstandard2.1\dist\_framework\_bin\BlazorWebAssembly.pdb
-C:\Users\Euheni\BlazorWebAssembly\bin\Debug\netstandard2.1\dist\_framework\_bin\DataModel.pdb
 C:\Users\Euheni\BlazorWebAssembly\bin\Debug\netstandard2.1\dist\_framework\blazor.boot.json
 C:\Users\Euheni\BlazorWebAssembly\bin\Debug\netstandard2.1\dist\_framework\wasm\mono.js
 C:\Users\Euheni\BlazorWebAssembly\bin\Debug\netstandard2.1\dist\_framework\wasm\mono.wasm
@@ -60,10 +58,8 @@ C:\Users\Euheni\BlazorWebAssembly\bin\Debug\netstandard2.1\System.Text.Json.dll
 C:\Users\Euheni\BlazorWebAssembly\bin\Debug\netstandard2.1\System.Threading.Tasks.Extensions.dll
 C:\Users\Euheni\BlazorWebAssembly\bin\Debug\netstandard2.1\DataModel.dll
 C:\Users\Euheni\BlazorWebAssembly\bin\Debug\netstandard2.1\DataModel.pdb
-C:\Users\Euheni\BlazorWebAssembly\obj\Debug\netstandard2.1\BlazorWebAssembly.csproj.AssemblyReference.cache
 C:\Users\Euheni\BlazorWebAssembly\obj\Debug\netstandard2.1\staticwebassets\BlazorWebAssembly.StaticWebAssets.Manifest.cache
 C:\Users\Euheni\BlazorWebAssembly\obj\Debug\netstandard2.1\staticwebassets\BlazorWebAssembly.StaticWebAssets.xml
-C:\Users\Euheni\BlazorWebAssembly\obj\Debug\netstandard2.1\BlazorWebAssembly.csproj.CoreCompileInputs.cache
 C:\Users\Euheni\BlazorWebAssembly\obj\Debug\netstandard2.1\BlazorWebAssembly.RazorComponent.input.cache
 C:\Users\Euheni\BlazorWebAssembly\obj\Debug\netstandard2.1\RazorDeclaration\App.razor.g.cs
 C:\Users\Euheni\BlazorWebAssembly\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Counter.razor.g.cs
@@ -101,3 +97,4 @@ C:\Users\Euheni\BlazorWebAssembly\obj\Debug\netstandard2.1\RazorDeclaration\Page
 C:\Users\Euheni\BlazorWebAssembly\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Editor.razor.g.cs
 C:\Users\Euheni\BlazorWebAssembly\obj\Debug\netstandard2.1\Razor\Pages\Details.razor.g.cs
 C:\Users\Euheni\BlazorWebAssembly\obj\Debug\netstandard2.1\Razor\Pages\Editor.razor.g.cs
+C:\Users\Euheni\BlazorWebAssembly\obj\Debug\netstandard2.1\BlazorWebAssembly.csprojAssemblyReference.cache
