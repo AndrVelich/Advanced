@@ -97,4 +97,7 @@ C:\Users\Euheni\BlazorWebAssembly\obj\Debug\netstandard2.1\RazorDeclaration\Page
 C:\Users\Euheni\BlazorWebAssembly\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Editor.razor.g.cs
 C:\Users\Euheni\BlazorWebAssembly\obj\Debug\netstandard2.1\Razor\Pages\Details.razor.g.cs
 C:\Users\Euheni\BlazorWebAssembly\obj\Debug\netstandard2.1\Razor\Pages\Editor.razor.g.cs
-C:\Users\Euheni\BlazorWebAssembly\obj\Debug\netstandard2.1\BlazorWebAssembly.csprojAssemblyReference.cache
+C:\Users\Euheni\BlazorWebAssembly\bin\Debug\netstandard2.1\dist\_framework\_bin\BlazorWebAssembly.pdb
+C:\Users\Euheni\BlazorWebAssembly\bin\Debug\netstandard2.1\dist\_framework\_bin\DataModel.pdb
+C:\Users\Euheni\BlazorWebAssembly\obj\Debug\netstandard2.1\BlazorWebAssembly.csproj.AssemblyReference.cache
+C:\Users\Euheni\BlazorWebAssembly\obj\Debug\netstandard2.1\BlazorWebAssembly.csproj.CoreCompileInputs.cache
